@@ -1,0 +1,25 @@
+body { 
+    padding: 20px;
+}
+.outside{
+    position:relative;
+}
+.inside1{
+    position:absolute;
+    top:50%;
+    bottom:50%;
+    transform:translate(-50%, -50%);
+}
+.inside{
+    position:absolute;
+}
+
+svg 
+    path {
+      transform-origin: center;
+}
+
+svg  {
+    width:144px;
+    height:280px;
+}
