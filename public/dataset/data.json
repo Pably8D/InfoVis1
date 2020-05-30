@@ -1,62 +1,72 @@
 [
-   {
-      "barba":3,
-      "capelli":6,
-      "baffi":2,
-      "occhi":4
+   {  
+      "num":1,
+      "bocca":10,
+      "faccia":53,
+      "naso":29,
+      "sopracciglia":80
    },
    {
-      "barba":8,
-      "capelli":10,
-      "baffi":2,
-      "occhi":8
+      "num":2,
+      "bocca":20,
+      "faccia":91,
+      "naso":36,
+      "sopracciglia":1
    },
    {
-      "barba":3,
-      "capelli":10,
-      "baffi":7,
-      "occhi":11
+      "num":3,
+      "bocca":13,
+      "faccia":82,
+      "naso":100,
+      "sopracciglia":56
    },
    {
-      "barba":4,
-      "capelli":7,
-      "baffi":1,
-      "occhi":4
+      "num":4,
+      "bocca":45,
+      "faccia":13,
+      "naso":17,
+      "sopracciglia":77
    },
    {
-      "barba":5,
-      "capelli":8,
-      "baffi":1,
-      "occhi":6.8
+      "num":5,
+      "bocca":15,
+      "faccia":4,
+      "naso":18,
+      "sopracciglia":22
    },
    {
-      "barba":6,
-      "capelli":9,
-      "baffi":3,
-      "occhi":5
+      "num":6,
+      "bocca":11,
+      "faccia":15,
+      "naso":6,
+      "sopracciglia":66
    },
    {
-      "barba":7,
-      "capelli":10,
-      "baffi":7,
-      "occhi":9
+      "num":7,
+      "bocca":17,
+      "faccia":65,
+      "naso":11,
+      "sopracciglia":18
    },
    {
-      "barba":8,
-      "capelli":1,
-      "baffi":1,
-      "occhi":1
+      "num":8,
+      "bocca":28,
+      "faccia":42,
+      "naso":17,
+      "sopracciglia":5
    },
    {
-      "barba":9,
-      "capelli":1,
-      "baffi":1,
-      "occhi":1
+      "num":9,
+      "bocca":90,
+      "faccia":78,
+      "naso":6,
+      "sopracciglia":90
    },
    {
-      "barba":10,
-      "capelli":1,
-      "baffi":1,
-      "occhi":1
+      "num":10,
+      "bocca":10,
+      "faccia":99,
+      "naso":19,
+      "sopracciglia":88
    }
 ]
