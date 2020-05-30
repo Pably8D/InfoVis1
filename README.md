@@ -5,7 +5,7 @@ tutti positivi utilizzando la tecnica di visualizzazione Chernoff faces.
 
 In base a questi dati sono state rappresentate 10 facce con  quattro 
 caratteristiche quali la rotondità della faccia, dimensione del naso, l'inclinazione
-delle sopracciglia e la concavità e convessità della bocca.
+delle sopracciglia e la concavità o convessità della bocca.
 
 
 
